@@ -1,6 +1,6 @@
 {
   "name": "minify-all-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A tool that minifies all .js files in a folder and its nested folders",
   "main": "index.js",
   "repository": {
