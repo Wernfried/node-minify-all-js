@@ -24,7 +24,7 @@ const minifyJS = async file => {
       options: {
         module: options.module,
         mangle: options.mangle,
-        compress: true
+        compress: { reduce_vars: false }
       }
     })
   } catch(e) {
