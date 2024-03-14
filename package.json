@@ -32,11 +32,11 @@
     "dist",
     "reduce"
   ],
-  "author": "Adones Pitogo <pitogo.adones@gmail.com> (http://www.adonespitogo.com)",
+  "author": "Wernfried Domscheit",
   "bugs": {
-    "url": "https://github.com/adonespitogo/node-minify-all-js/issues"
+    "url": "https://github.com/Wernfried/node-minify-all-js"
   },
-  "homepage": "https://github.com/adonespitogo/node-minify-all-js#readme",
+  "homepage": "https://github.com/Wernfried/node-minify-all-jss#readme",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
