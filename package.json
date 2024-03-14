@@ -40,8 +40,8 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "@node-minify/core": "^6.1.0",
-    "@node-minify/terser": "^6.1.0",
+    "@node-minify/core": "^8.0.6",
+    "@node-minify/terser": "^8.0.6",
     "promise.series": "^0.2.0"
   }
 }

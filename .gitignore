@@ -1,6 +1,18 @@
 node_modules
+package-lock.json
 test/sample-project/node_modules
 tags
 tags.*
 *.swp
 *.swo
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+.vscode
