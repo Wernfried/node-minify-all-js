@@ -1,11 +1,11 @@
 {
-  "name": "minify-all-js",
+  "name": "@wernfried/minify-all-js",
   "version": "0.2.1",
   "description": "A tool that minifies all .js files in a folder and its nested folders",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adonespitogo/node-minify-all-js"
+    "url": "https://github.com/wernfried/node-minify-all-js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

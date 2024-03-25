@@ -3,7 +3,7 @@
 A function that minifies your javascript files (recursively when `--overwrite`).
 **minify-all-js** was designed to reduce the size of your project's `node_modules` directory. But it can also be used to minify any js files. By giving it a directory and option `--overwrite`, `minify-all-js` will walk through the depth of your folders and minify all the javascript that it sees.
 
-Without `--overwrite` (the default), `minify-all-js` does not scan directories recursively and files are renamed to "<old name>.min.js". If such a file already exists, the it is overwritten. This prevents to get files like "<old name>.min.min.min.js" if you run `minify-all-js` multiple times.
+Without `--overwrite` (the default), `minify-all-js` does not scan directories recursively and files are renamed to "<old name>.min.js". If such a file already exists, then it is overwritten. This prevents to get files like "<old name>.min.min.min.js" if you run `minify-all-js` multiple times.
 
 ### Installation
 
